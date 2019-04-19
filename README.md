@@ -13,8 +13,9 @@
 ### ３、[Custom loss function](https://github.com/CNyuzhang/tensorflow-/blob/master/mycode/Custom%20loss%20function.py)
 使用自定义的损失函数进行神经网络的训练
 
-### 4、　[MNIST]()
+### 4、　[MNIST](https://github.com/CNyuzhang/tensorflow-/blob/master/mycode/MNIST%E5%85%A5%E9%97%A8/MNIST.py)
 实现数字识别神经网络的训练。程序中涉及相关概念：
+* tf.nn.   是tensorflow中的Neural Net　相关的。[nn的更多函数可见](https://www.tensorflow.org/api_docs/python/tf/nn)
 * 滑动平均，又称指数加权平均，用来估计变量的局部均值。[更多内容](https://www.cnblogs.com/wuliytTaotao/p/9479958.html) 
 * ReLU激活函数：常用几种激活函数<br/>
 ![](https://img-blog.csdn.net/20160706150849807)
