@@ -23,7 +23,8 @@
     softmax是将神经网络得到的多个值，进行归一化处理，使得到的值在[0,1]之间，让结果变得可解释。即可以将结果看作是概率，某个类别概率越大，将样本归为该类别的可能性也就越高.
     ![](https://img-blog.csdn.net/20180914175343446?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0hlYXJ0aG91Z2Fu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
-
+### 5、[mnist_with_variable_management](https://github.com/CNyuzhang/tensorflow-/blob/master/mycode/MNIST%E5%85%A5%E9%97%A8/mnist_with_variable_management.py)
+将ＭＮＩＳＴ使用变量管理方法重构一遍。有关ｔｅｎｓｏｒｆｌｏｗ中变量管理的更多方法，参考[TensorFlow变量管理](https://www.jianshu.com/p/eedddcff65ff)
 　　　　
 　　　　
 　　　
