@@ -25,6 +25,13 @@
 
 ### 5、[mnist_with_variable_management](https://github.com/CNyuzhang/tensorflow-/blob/master/mycode/MNIST%E5%85%A5%E9%97%A8/mnist_with_variable_management.py)
 将ＭＮＩＳＴ使用变量管理方法重构一遍。有关ｔｅｎｓｏｒｆｌｏｗ中变量管理的更多方法，参考[TensorFlow变量管理](https://www.jianshu.com/p/eedddcff65ff)
+### 6、[tensorflow实现的LeNet-5模型](https://github.com/CNyuzhang/tensorflow-/tree/master/mycode/leNet5)
+是第一個成功應用於數字識別問題的卷及神經網絡結構，一共有七层，两层卷积，两层池化，三层全连接层。
+![LeNet-5](https://github.com/CNyuzhang/CNyuzhang.github.io/blob/master/img/cnn/LeNet_5.png?raw=true)
+### 7、[Inception-v3模型](https://github.com/CNyuzhang/tensorflow-/blob/master/mycode/ML.py)
+该模型与LeNet-5模型有较大的区别，在LeNet-5模型中，不同卷积层是通过串联的方式连接在一起，但是在Inception-v3模型中的Inception结构是将不同的卷积层通过并联的方式结合在一起．Inception-v3模型总共有４６层，由１１个inception模块构成
+![inception-v3](https://github.com/CNyuzhang/CNyuzhang.github.io/blob/master/img/cnn/inception-v3.png?raw=true)
+
 　　　　
 　　　　
 　　　
