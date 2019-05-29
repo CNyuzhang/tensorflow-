@@ -1,4 +1,4 @@
-#  对应书本　[Tensorflow实战google深度学习框架](http://product.dangdang.com/24195829.html)
+#  对应书本　[Tensorflow实战google深度学习框架](https://github.com/CNyuzhang/tensorflow-/blob/master/Tensorflow%20%E5%AE%9E%E6%88%98Google%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%A1%86%E6%9E%B6.pdf)
 
 
 ### 1、[conversion](https://github.com/CNyuzhang/tensorflow-/blob/master/mycode/conversation.py)
